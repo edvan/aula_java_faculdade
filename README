@@ -1,0 +1,13 @@
+Pequena aplicacao para apresentacao na Aula de Java.
+
+Exercicio:
+Criar um Cadastro com alguns campos para inserir em um BD.
+
+Objetivo:
+1. Treinar a criação de telas ("manualmente");
+2. Efetuar conexão com banco de dados;
+3. Enviar querys diversas a tabela e retornar dados;
+
+
+ 
+
